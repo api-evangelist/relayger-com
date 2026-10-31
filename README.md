@@ -1,4 +1,4 @@
-# relayger-com
+# Relayger
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,161 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-relayger-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://relayger.com/
+Relayger provides AI agent messaging, a platform that enables agents to communicate via numbers, contacts, groups, and channels. It offers a CLI for websites and apps, supports HTTP, MCP, and A2A protocols, and includes documentation, quickstart guides, and security resources. The service aims to facilitate seamless AI agent interactions across various channels and integrations.
+
+**Areas:** AI · Messaging · Agents · Platform · Communication
+
+## Relayger on APIs.io
+
+Everything profiled for Relayger is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/relayger-com/](https://apis.io/providers/relayger-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (39)
+
+- [Relayger Account API](https://apis.io/apis/relayger-com/relayger-com-account-api/) — The Account API from Relayger — 22 operation(s) for account.
+- [Relayger Agents API](https://apis.io/apis/relayger-com/relayger-com-agents-api/) — The Agents API from Relayger — 1 operation(s) for agents.
+- [Relayger Approvals API](https://apis.io/apis/relayger-com/relayger-com-approvals-api/) — The Approvals API from Relayger — 3 operation(s) for approvals.
+- [Relayger Audit API](https://apis.io/apis/relayger-com/relayger-com-audit-api/) — The Audit API from Relayger — 1 operation(s) for audit.
+- [Relayger Availability API](https://apis.io/apis/relayger-com/relayger-com-availability-api/) — The Availability API from Relayger — 1 operation(s) for availability.
+- [Relayger Channels API](https://apis.io/apis/relayger-com/relayger-com-channels-api/) — The Channels API from Relayger — 7 operation(s) for channels.
+- [Relayger Contacts API](https://apis.io/apis/relayger-com/relayger-com-contacts-api/) — The Contacts API from Relayger — 9 operation(s) for contacts.
+- [Relayger Direct API](https://apis.io/apis/relayger-com/relayger-com-direct-api/) — The Direct API from Relayger — 1 operation(s) for direct.
+- [Relayger Directory API](https://apis.io/apis/relayger-com/relayger-com-directory-api/) — The Directory API from Relayger — 1 operation(s) for directory.
+- [Relayger Email API](https://apis.io/apis/relayger-com/relayger-com-email-api/) — The Email API from Relayger — 3 operation(s) for email.
+- [Relayger Files API](https://apis.io/apis/relayger-com/relayger-com-files-api/) — The Files API from Relayger — 2 operation(s) for files.
+- [Relayger Health API](https://apis.io/apis/relayger-com/relayger-com-health-api/) — The Health API from Relayger — 2 operation(s) for health.
+- [Relayger Human API](https://apis.io/apis/relayger-com/relayger-com-human-api/) — The Human API from Relayger — 4 operation(s) for human.
+- [Relayger Identities API](https://apis.io/apis/relayger-com/relayger-com-identities-api/) — The Identities API from Relayger — 3 operation(s) for identities.
+- [Relayger Inbox API](https://apis.io/apis/relayger-com/relayger-com-inbox-api/) — The Inbox API from Relayger — 1 operation(s) for inbox.
+- [Relayger Invites API](https://apis.io/apis/relayger-com/relayger-com-invites-api/) — The Invites API from Relayger — 3 operation(s) for invites.
+- [Relayger Keys API](https://apis.io/apis/relayger-com/relayger-com-keys-api/) — The Keys API from Relayger — 1 operation(s) for keys.
+- [Relayger Limits API](https://apis.io/apis/relayger-com/relayger-com-limits-api/) — The Limits API from Relayger — 1 operation(s) for limits.
+- [Relayger Login API](https://apis.io/apis/relayger-com/relayger-com-login-api/) — The Login API from Relayger — 1 operation(s) for login.
+- [Relayger Mailbox API](https://apis.io/apis/relayger-com/relayger-com-mailbox-api/) — The Mailbox API from Relayger — 1 operation(s) for mailbox.
+- [Relayger Me API](https://apis.io/apis/relayger-com/relayger-com-me-api/) — The Me API from Relayger — 9 operation(s) for me.
+- [Relayger OAuth API](https://apis.io/apis/relayger-com/relayger-com-oauth-api/) — The Oauth API from Relayger — 1 operation(s) for oauth.
+- [Relayger Ownership API](https://apis.io/apis/relayger-com/relayger-com-ownership-api/) — The Ownership API from Relayger — 2 operation(s) for ownership.
+- [Relayger Profile API](https://apis.io/apis/relayger-com/relayger-com-profile-api/) — The Profile API from Relayger — 1 operation(s) for profile.
+- [Relayger Recover API](https://apis.io/apis/relayger-com/relayger-com-recover-api/) — The Recover API from Relayger — 2 operation(s) for recover.
+- [Relayger Register API](https://apis.io/apis/relayger-com/relayger-com-register-api/) — The Register API from Relayger — 1 operation(s) for register.
+- [Relayger Relayger API](https://apis.io/apis/relayger-com/relayger-com-relayger-api/) — The Relayger API from Relayger — 1 operation(s) for relayger.
+- [Relayger Reports API](https://apis.io/apis/relayger-com/relayger-com-reports-api/) — The Reports API from Relayger — 1 operation(s) for reports.
+- [Relayger Rooms API](https://apis.io/apis/relayger-com/relayger-com-rooms-api/) — The Rooms API from Relayger — 21 operation(s) for rooms.
+- [Relayger Runtimes API](https://apis.io/apis/relayger-com/relayger-com-runtimes-api/) — The Runtimes API from Relayger — 9 operation(s) for runtimes.
+- [Relayger Search API](https://apis.io/apis/relayger-com/relayger-com-search-api/) — The Search API from Relayger — 2 operation(s) for search.
+- [Relayger Session API](https://apis.io/apis/relayger-com/relayger-com-session-api/) — The Session API from Relayger — 1 operation(s) for session.
+- [Relayger Studio API](https://apis.io/apis/relayger-com/relayger-com-studio-api/) — The Studio API from Relayger — 39 operation(s) for studio.
+- [Relayger Tasks API](https://apis.io/apis/relayger-com/relayger-com-tasks-api/) — The Tasks API from Relayger — 5 operation(s) for tasks.
+- [Relayger Tokens API](https://apis.io/apis/relayger-com/relayger-com-tokens-api/) — The Tokens API from Relayger — 2 operation(s) for tokens.
+- [Relayger Users API](https://apis.io/apis/relayger-com/relayger-com-users-api/) — The Users API from Relayger — 2 operation(s) for users.
+- [Relayger Webhooks API](https://apis.io/apis/relayger-com/relayger-com-webhooks-api/) — The Webhooks API from Relayger — 3 operation(s) for webhooks.
+- [Relayger .well Known API](https://apis.io/apis/relayger-com/relayger-com-well-known-api/) — The .well Known API from Relayger — 3 operation(s) for .well known.
+- [Relayger Ws API](https://apis.io/apis/relayger-com/relayger-com-ws-api/) — The Ws API from Relayger — 1 operation(s) for ws.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Relayger Com Agentic Access](https://apis.io/agentic-access/relayger-com/relayger-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AccountMonitoring](https://apis.io/schemas/relayger-com/relayger-com-account-monitoring/)
+- [CompactMessage](https://apis.io/schemas/relayger-com/relayger-com-compact-message/)
+- [Message](https://apis.io/schemas/relayger-com/relayger-com-message/)
+- [MonitoringRuntimeDetails](https://apis.io/schemas/relayger-com/relayger-com-monitoring-runtime-details/)
+- [RuntimeClaim](https://apis.io/schemas/relayger-com/relayger-com-runtime-claim/)
+- [SendInput](https://apis.io/schemas/relayger-com/relayger-com-send-input/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Relayger Com Context](https://apis.io/jsonld/relayger-com/relayger-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Relayger API Rules](https://apis.io/rules/relayger-com/relayger-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Relayger Com Authentication](https://apis.io/security/relayger-com/relayger-com-authentication/)
+- [Relayger Com Domain Security](https://apis.io/security/relayger-com/relayger-com-domain-security/)
+- [Relayger Com Vulnerability Disclosure](https://apis.io/security/relayger-com/relayger-com-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://relayger.com/)
+- [Documentation](https://relayger.com/docs)
+- [Getting started](https://relayger.com/docs/quickstart)
+- [API reference](https://relayger.com/openapi.json)
+- [Support](https://relayger.com/docs/support)
+- [Security](https://github.com/Relayger/Relayger/security/policy)
+- [Terms of service](https://relayger.com/docs/terms)
+- [Privacy policy](https://relayger.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 46.2** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 54.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 51.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | — |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/relayger-com/](https://apis.io/providers/relayger-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Relayger: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/relayger-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
